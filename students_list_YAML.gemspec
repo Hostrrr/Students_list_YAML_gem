@@ -1,12 +1,12 @@
 Gem::Specification.new do |spec|
   spec.name          = "student_list_yaml"
   spec.version       = "0.1.0"
-  spec.authors       = ["Ваше Имя"]
-  spec.email         = ["ваш.email@example.com"]
+  spec.authors       = "Georgiy"
+  spec.email         = "hosta20259@gmail.com"
   
   spec.summary       = "YAML-based student list management"
   spec.description   = "A gem for managing student lists using YAML format"
-  spec.homepage      = "https://github.com/вашusername/student_list_yaml"
+  spec.homepage      = "https://github.com/hostrrr/student_list_yaml"
   spec.license       = "MIT"
   
   # Указываем файлы явно
