@@ -1,8 +1,6 @@
 require 'yaml'
-require_relative 'student'
-require_relative 'student_short'
-require_relative 'data_list_student_short'
 
+module StudentListYamlGem
 class StudentListYaml
   attr_reader :file_path
 
@@ -89,4 +87,5 @@ class StudentListYaml
   def get_student_short_count
     @students.count
   end
+end
 end
